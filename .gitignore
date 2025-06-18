@@ -1,0 +1,8 @@
+venv/
+.idea/
+source/
+cpp/.vs/
+cpp/cpp/cpp.vcxproj
+cpp/cpp/cpp.vcxproj.filters
+cpp/cpp/cpp.vcxproj.user
+cpp/cpp.sln
